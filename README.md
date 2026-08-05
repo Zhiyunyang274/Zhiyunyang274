@@ -4,7 +4,7 @@
   <p><strong>AI tools | Data products | Privacy-first software</strong></p>
   <p>把复杂工作流做成可靠、可用的工具。</p>
   <p>
-    <a href="https://github.com/Zhiyunyang274?tab=repositories"><img src="https://img.shields.io/badge/Repositories-12-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="12 repositories" /></a>
+    <a href="https://github.com/Zhiyunyang274?tab=repositories"><img src="https://img.shields.io/badge/Repositories-13-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="12 repositories" /></a>
     <a href="https://orcid.org/0009-0000-4421-413X"><img src="https://img.shields.io/badge/ORCID-0009--0000--4421--413X-a6ce39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
   </p>
 </div>
@@ -97,9 +97,13 @@
 <h2>GitHub at a glance</h2>
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zhiyunyang274&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhiyunyang274&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top languages" />
+  <a href="https://github.com/Zhiyunyang274?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-13-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="13 public repositories" /></a>
+  <a href="https://github.com/Zhiyunyang274?tab=followers"><img src="https://img.shields.io/github/followers/Zhiyunyang274?style=flat-square&label=followers&color=0f766e" alt="GitHub followers" /></a>
+  <a href="https://github.com/Zhiyunyang274/word-to-excel/stargazers"><img src="https://img.shields.io/github/stars/Zhiyunyang274/word-to-excel?style=flat-square&label=project%20stars&color=f59e0b" alt="word-to-excel stars" /></a>
+  <a href="https://github.com/Zhiyunyang274/Zhiyunyang274/commits/main"><img src="https://img.shields.io/github/last-commit/Zhiyunyang274/Zhiyunyang274?style=flat-square&label=profile%20updated&color=64748b" alt="Profile README last updated" /></a>
 </p>
+
+<p>Recent work is centered on useful automation, finance intelligence, and small tools that stay easy to understand.</p>
 
 <h2>Now</h2>
 
