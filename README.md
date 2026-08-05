@@ -1,136 +1,102 @@
 <div align="center">
-  <img src="https://github.com/Zhiyunyang274.png?size=160" width="120" alt="Yunyang Lab avatar" />
+  <img src="https://github.com/Zhiyunyang274.png?size=192" width="128" alt="Yunyang Lab avatar" />
   <h1>Yunyang Lab</h1>
-  <p><strong>AI tools | Data products | Privacy-first software</strong></p>
-  <p>把复杂工作流做成可靠、可用的工具。</p>
+  <p><strong>Practical AI tools · Data products · Privacy-first software</strong></p>
+  <p>把复杂工作流做成可靠、可运行、可检查的工具。</p>
   <p>
-    <a href="https://github.com/Zhiyunyang274?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="14 public repositories" /></a>
-    <a href="https://orcid.org/0009-0000-4421-413X"><img src="https://img.shields.io/badge/ORCID-0009--0000--4421--413X-a6ce39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+    <a href="https://github.com/Zhiyunyang274?tab=repositories">Projects</a>
+    · <a href="https://github.com/Zhiyunyang274/mackit">MacKit</a>
+    · <a href="https://orcid.org/0009-0000-4421-413X">ORCID</a>
   </p>
 </div>
 
 ---
 
-<h2>What I am building</h2>
+## Building now
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <strong>AI agents</strong><br />
-      Practical assistants that understand intent, use tools, and keep risky actions under control.
+      Tool-using assistants with explicit permissions, useful defaults and observable results.
+      <br /><br />
+      <sub>让模型真正完成工作，而不只是生成文字。</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>Data products</strong><br />
-      Focused systems that turn noisy financial and operational data into useful decisions.
+      <strong>Decision tools</strong><br />
+      Focused data products that turn noisy financial and operational signals into clear next steps.
+      <br /><br />
+      <sub>把数据变成可以行动的判断。</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>Privacy by default</strong><br />
-      Small, transparent utilities with clear boundaries and a respect for user data.
+      <strong>Local utilities</strong><br />
+      Small, native tools that remove friction from everyday work while keeping data on-device.
+      <br /><br />
+      <sub>简单、透明、尊重隐私。</sub>
     </td>
   </tr>
 </table>
 
-<h2>Selected work</h2>
+## Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Zhiyunyang274/caixun-platform"><strong>caixun-platform</strong></a><br />
-      A real-time finance news aggregator collecting signals from multiple sources.
+      <h3><a href="https://github.com/Zhiyunyang274/mackit">MacKit</a></h3>
+      A native macOS menu bar toolbox with clipboard history, port management, Finder path tools and a temporary file transfer shelf.
       <br /><br />
-      <img src="https://img.shields.io/badge/Finance-0f766e?style=flat-square" alt="Finance" />
-      <img src="https://img.shields.io/badge/Data%20product-0f766e?style=flat-square" alt="Data product" />
+      <sub>Swift · AppKit · SwiftUI · macOS</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Zhiyunyang274/caixuntong2.0"><strong>caixuntong2.0</strong></a><br />
-      全球金融资讯聚合平台的升级版本，面向更快、更清晰的信息流。
+      <h3><a href="https://github.com/Zhiyunyang274/polysignal-pro">PolySignal Pro</a></h3>
+      Research-first Polymarket intelligence and paper trading with strict risk controls and a local read-only console.
       <br /><br />
-      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/MIT-111827?style=flat-square" alt="MIT license" />
+      <sub>Python · Data products · Risk controls</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Zhiyunyang274/Linux-Agent"><strong>Linux-Agent</strong></a><br />
-      Manage Linux servers with natural language, automatic result analysis, and risk blocking.
+      <h3><a href="https://github.com/Zhiyunyang274/Linux-Agent">Linux-Agent</a></h3>
+      Manage Linux servers with natural language: parse intent, execute commands, analyze results and block risky actions.
       <br /><br />
-      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/AI%20agent-0f766e?style=flat-square" alt="AI agent" />
+      <sub>Python · LLM agents · Operations</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Zhiyunyang274/feishu-girlfriend-bot"><strong>feishu-girlfriend-bot</strong></a><br />
-      An AI chatbot built with Feishu Bot and FastAPI.
+      <h3><a href="https://github.com/Zhiyunyang274/caixun-platform">Caixun Platform</a></h3>
+      A real-time finance news aggregator that brings signals from multiple sources into one focused information flow.
       <br /><br />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Zhiyunyang274/word-to-excel"><strong>word-to-excel</strong></a><br />
-      A focused utility for turning Word documents into Excel spreadsheets.
-      <br /><br />
-      <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/github/stars/Zhiyunyang274/word-to-excel?style=flat-square&color=f59e0b&label=stars" alt="word-to-excel stars" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Zhiyunyang274/BACKTRACE-Privacy"><strong>BACKTRACE-Privacy</strong></a><br />
-      A clear, lightweight home for the BACKTRACE privacy policy.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Privacy-0f766e?style=flat-square&logo=shield&logoColor=white" alt="Privacy" />
-      <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Zhiyunyang274/polysignal-pro"><strong>PolySignal Pro</strong></a><br />
-      Research-first Polymarket market intelligence and paper-trading system with strict risk controls and a local read-only web console.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Paper%20trading-0f766e?style=flat-square" alt="Paper trading" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>Open-source by design</strong><br />
-      Read-only defaults, explicit risk gates, deterministic paper trading, and documentation that keeps the system easy to inspect.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Risk--first-111827?style=flat-square" alt="Risk-first" />
-      <img src="https://img.shields.io/badge/Read--only%20default-64748b?style=flat-square" alt="Read-only default" />
+      <sub>Finance · News aggregation · Data</sub>
     </td>
   </tr>
 </table>
 
-<h2>Toolbox</h2>
+## How I work
+
+- **Useful before impressive.** Start with a real workflow and make the next action easier.
+- **Local and inspectable.** Prefer transparent data paths, small dependencies and clear failure states.
+- **Risk at the boundary.** Read-only by default; destructive or external actions require an explicit step.
+- **Small feedback loops.** Build, run, test, inspect, then ship the smallest useful version.
+
+## Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/AppKit%20%2F%20SwiftUI-111827?style=flat-square&logo=apple&logoColor=white" alt="AppKit and SwiftUI" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
   <img src="https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-<h2>GitHub at a glance</h2>
+## Currently
 
-<p>
-  <a href="https://github.com/Zhiyunyang274?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-14-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="14 public repositories" /></a>
-  <a href="https://github.com/Zhiyunyang274?tab=followers"><img src="https://img.shields.io/github/followers/Zhiyunyang274?style=flat-square&label=followers&color=0f766e" alt="GitHub followers" /></a>
-  <a href="https://github.com/Zhiyunyang274/word-to-excel/stargazers"><img src="https://img.shields.io/github/stars/Zhiyunyang274/word-to-excel?style=flat-square&label=project%20stars&color=f59e0b" alt="word-to-excel stars" /></a>
-  <a href="https://github.com/Zhiyunyang274/Zhiyunyang274/commits/main"><img src="https://img.shields.io/github/last-commit/Zhiyunyang274/Zhiyunyang274?style=flat-square&label=profile%20updated&color=64748b" alt="Profile README last updated" /></a>
-</p>
+- Shipping MacKit as a practical open-source macOS utility.
+- Exploring reliable LLM workflows, MCP ecosystems and finance intelligence.
+- Keeping projects readable, useful and easy to run.
 
-<p>Recent work is centered on useful automation, finance intelligence, and small tools that stay easy to understand.</p>
-
-<h2>Now</h2>
-
-<ul>
-  <li>Shipping small tools that remove friction from everyday work.</li>
-  <li>Exploring LLM-powered workflows, MCP ecosystems, and trustworthy automation.</li>
-  <li>Keeping projects readable, useful, and easy to run.</li>
-</ul>
-
-<p align="center">
-  <a href="https://github.com/Zhiyunyang274?tab=repositories">Explore the repositories -></a>
-  &nbsp; | &nbsp;
-  <a href="https://orcid.org/0009-0000-4421-413X">Connect on ORCID</a>
-</p>
+<div align="center">
+  <br />
+  <a href="https://github.com/Zhiyunyang274?tab=repositories">Explore all repositories →</a>
+  <br /><br />
+  <sub>Built with curiosity, shipped with boundaries.</sub>
+</div>
