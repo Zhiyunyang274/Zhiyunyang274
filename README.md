@@ -4,7 +4,7 @@
   <p><strong>AI tools | Data products | Privacy-first software</strong></p>
   <p>把复杂工作流做成可靠、可用的工具。</p>
   <p>
-    <a href="https://github.com/Zhiyunyang274?tab=repositories"><img src="https://img.shields.io/badge/Repositories-13-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="12 repositories" /></a>
+    <a href="https://github.com/Zhiyunyang274?tab=repositories"><img src="https://img.shields.io/badge/Repositories-13-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="13 public repositories" /></a>
     <a href="https://orcid.org/0009-0000-4421-413X"><img src="https://img.shields.io/badge/ORCID-0009--0000--4421--413X-a6ce39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
   </p>
 </div>
