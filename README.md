@@ -4,7 +4,7 @@
   <p><strong>AI tools | Data products | Privacy-first software</strong></p>
   <p>把复杂工作流做成可靠、可用的工具。</p>
   <p>
-    <a href="https://github.com/Zhiyunyang274?tab=repositories"><img src="https://img.shields.io/badge/Repositories-13-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="13 public repositories" /></a>
+    <a href="https://github.com/Zhiyunyang274?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="14 public repositories" /></a>
     <a href="https://orcid.org/0009-0000-4421-413X"><img src="https://img.shields.io/badge/ORCID-0009--0000--4421--413X-a6ce39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
   </p>
 </div>
@@ -81,6 +81,22 @@
       <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Zhiyunyang274/polysignal-pro"><strong>PolySignal Pro</strong></a><br />
+      Research-first Polymarket market intelligence and paper-trading system with strict risk controls and a local read-only web console.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Paper%20trading-0f766e?style=flat-square" alt="Paper trading" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Open-source by design</strong><br />
+      Read-only defaults, explicit risk gates, deterministic paper trading, and documentation that keeps the system easy to inspect.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Risk--first-111827?style=flat-square" alt="Risk-first" />
+      <img src="https://img.shields.io/badge/Read--only%20default-64748b?style=flat-square" alt="Read-only default" />
+    </td>
+  </tr>
 </table>
 
 <h2>Toolbox</h2>
@@ -97,7 +113,7 @@
 <h2>GitHub at a glance</h2>
 
 <p>
-  <a href="https://github.com/Zhiyunyang274?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-13-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="13 public repositories" /></a>
+  <a href="https://github.com/Zhiyunyang274?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-14-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="14 public repositories" /></a>
   <a href="https://github.com/Zhiyunyang274?tab=followers"><img src="https://img.shields.io/github/followers/Zhiyunyang274?style=flat-square&label=followers&color=0f766e" alt="GitHub followers" /></a>
   <a href="https://github.com/Zhiyunyang274/word-to-excel/stargazers"><img src="https://img.shields.io/github/stars/Zhiyunyang274/word-to-excel?style=flat-square&label=project%20stars&color=f59e0b" alt="word-to-excel stars" /></a>
   <a href="https://github.com/Zhiyunyang274/Zhiyunyang274/commits/main"><img src="https://img.shields.io/github/last-commit/Zhiyunyang274/Zhiyunyang274?style=flat-square&label=profile%20updated&color=64748b" alt="Profile README last updated" /></a>
