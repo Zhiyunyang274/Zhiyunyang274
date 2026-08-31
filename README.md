@@ -15,6 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/Zhiyunyang274?tab=repositories">Projects</a>
+  · <a href="https://github.com/Zhiyunyang274/qianpulse">QianPulse</a>
   · <a href="https://github.com/Zhiyunyang274/Linux-Agent">Linux-Agent</a>
   · <a href="https://github.com/Zhiyunyang274/mackit">MacKit</a>
   · <a href="https://caixuntong.cn">Caixuntong</a>
@@ -30,7 +31,20 @@ My projects usually sit at the intersection of:
 
 - **AI agents** - tool use, guarded execution and human-readable outcomes
 - **Local-first software** - fast utilities that keep users in control
-- **Financial technology** - market data, backtesting and risk-aware decision tools
+- **Signal & data engineering** - extracting trustworthy structure from noisy real-world data
+
+## Featured · QianPulse 黔脉
+
+### [QianPulse](https://github.com/Zhiyunyang274/qianpulse) — turn everyday traffic into a bridge-monitoring network
+
+No new sensors: vehicles crossing a bridge already carry IMUs, and their
+crossings are measurements waiting to be recorded. QianPulse fuses hundreds
+of noisy vehicle trips into a per-bridge frequency fingerprint and screens
+persistent response shifts — telling maintenance crews which bridge deserves
+inspection first. Validated on a scale model with a real iPhone, and on real
+drive-by field data.
+
+`Python` `Streamlit` `signal processing` `Welch PSD` `JS divergence` `MapLibre` `AGPL-3.0`
 
 ## Selected projects
 
@@ -64,6 +78,7 @@ A financial information product I created and continue to develop.
 - Put explicit guardrails around operations with real consequences.
 - Prefer small feedback loops, reversible changes and working prototypes.
 - Keep systems understandable enough to inspect, debug and improve.
+- Separate evidence from simulation — every number should be traceable.
 
 ## A little more about me
 
@@ -74,7 +89,12 @@ A financial information product I created and continue to develop.
 
 ## Currently
 
-Building safer tool-using agents, improving Linux-Agent, and shipping useful local software.
+Shipping QianPulse (live demo + open source), building safer tool-using agents, and improving local software for macOS.
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zhiyunyang274&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9198a1&icon_color=58a6ff" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhiyunyang274&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9198a1&icon_color=58a6ff" alt="Top languages" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Zhiyunyang274?tab=repositories"><strong>Explore all projects →</strong></a>
