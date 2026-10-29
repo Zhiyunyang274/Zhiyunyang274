@@ -1,175 +1,67 @@
 <p align="center">
-  <img src="./profile-masthead.png" width="100%" alt="Yunyang Lab - inspectable AI agents and local-first tools" />
+  <img src="./profile-masthead.png" width="100%" alt="Yunyang Lab — AI agents, native tools, and data products" />
 </p>
 
 <h1 align="center">Hi, I'm Yunyang.</h1>
-
 <p align="center">
-  <strong>I build inspectable AI agents and local-first tools.</strong><br />
-  Guarded automation · observable execution · practical software
-</p>
-
-<p align="center">
+  <strong>Inspectable AI agents · Native macOS tools · Signal & data engineering</strong><br />
   把复杂工作流做成可运行、可观察、可信任的工具。
 </p>
-
 <p align="center">
-  <a href="https://github.com/Zhiyunyang274?tab=repositories">Projects</a>
-  · <a href="https://github.com/Zhiyunyang274/qianpulse">QianPulse</a>
-  · <a href="https://github.com/Zhiyunyang274/Linux-Agent">Linux-Agent</a>
-  · <a href="https://github.com/Zhiyunyang274/mackit">MacKit</a>
-  · <a href="https://caixuntong.cn">Caixuntong</a>
+  <a href="https://github.com/Zhiyunyang274?tab=repositories">Projects</a> ·
+  <a href="https://qianpulse.caixuntong.cn">QianPulse demo</a> ·
+  <a href="https://caixuntong.cn">财讯通</a> ·
+  <a href="https://orcid.org/0009-0000-4421-413X">ORCID</a>
 </p>
 
-<p align="center">
-  <details>
-    <summary><b>🇨🇳 中文版</b>（点击展开）</summary>
-    <br />
+## Featured — QianPulse 黔脉
 
-<div align="left">
+**Turn everyday vehicle crossings into bridge-monitoring signals.**
 
-## 我在做什么
+QianPulse aggregates noisy vehicle IMU measurements into bridge frequency fingerprints and screens changes against a historical baseline to help prioritize inspection. The project includes a Streamlit console, a MapLibre map, and separate views of simulated and measured evidence.
 
-我做能使用工具但不沦为黑盒的 AI agents：动作应当可见、危险操作必须有明确边界、失败必须可恢复。
+`Python` · `Signal processing` · `Streamlit` · `MapLibre`
 
-我的项目通常落在三个交集上：
-
-- **AI agents** —— 工具调用、受护栏保护的执行、人类可读的结果
-- **本地优先软件** —— 快速、把控制权留在用户手里的实用工具
-- **信号与数据工程** —— 从嘈杂的真实世界数据中提取可信结构
-
-## 旗舰 · QianPulse 黔脉
-
-### [QianPulse](https://github.com/Zhiyunyang274/qianpulse) — 把日常车流变成桥梁监测网络
-
-不新增一个传感器：过桥的车本来就带着 IMU，每次通过都是一次等待被记录的测量。QianPulse 把成百上千次嘈杂的车辆穿越融合成每座桥的频率指纹，筛查持续的响应偏移——告诉养护人员哪座桥值得优先检查。已在缩尺结构（真实 iPhone）与真实车载实测数据上完成验证。
-
-`Python` `Streamlit` `信号处理` `Welch PSD` `JS散度` `MapLibre` `AGPL-3.0`
-
-## 精选项目
-
-### [Linux-Agent](https://github.com/Zhiyunyang274/Linux-Agent)
-
-用自然语言操作 Linux：受护栏保护的执行、可回滚、结果可观察。
-
-`Python` `LLM agents` `自动化` `运维`
-
-### [MacKit](https://github.com/Zhiyunyang274/mackit)
-
-原生 macOS 菜单栏工具箱：剪贴板历史、端口管理、Finder 路径、临时文件传输。
-
-`Swift` `AppKit` `SwiftUI` `macOS`
-
-### [PolySignal Pro](https://github.com/Zhiyunyang274/polysignal-pro)
-
-市场情报与模拟交易：显式风险边界 + 本地只读控制台。
-
-`Python` `行情数据` `回测` `风控`
-
-### [财讯通](https://caixuntong.cn)
-
-我创立并持续迭代的金融资讯产品。
-
-`产品开发` `金融资讯` `Web`
-
-## 我的做事方式
-
-- 让动作可观察，而不是藏在精致界面背后。
-- 给有真实后果的操作加上明确护栏。
-- 偏好小反馈回路、可逆变更、能跑起来的原型。
-- 让系统始终能被理解、调试和改进。
-- 区分证据与模拟——每个数字都应可追溯。
-
-## 关于我
-
-- 华南理工大学 计算机科学与技术，辅修金融
-- 独立 Apple 开发者，多款 App 已上架 App Store
-- 黑客松选手，喜欢把粗糙想法快速做成能用的产品
-- WorldQuant Global Challenge Top 100
-
-## 近况
-
-正在推进 QianPulse（在线演示 + 开源）、构建更安全的工具型 agents、打磨 macOS 本地软件。
-
-</div>
-  </details>
-</p>
-
----
-
-## What I build
-
-I work on AI agents that can use tools without becoming black boxes: their actions should be visible, risky operations should have clear boundaries, and failures should be recoverable.
-
-My projects usually sit at the intersection of:
-
-- **AI agents** - tool use, guarded execution and human-readable outcomes
-- **Local-first software** - fast utilities that keep users in control
-- **Signal & data engineering** - extracting trustworthy structure from noisy real-world data
-
-## Featured · QianPulse 黔脉
-
-### [QianPulse](https://github.com/Zhiyunyang274/qianpulse) — turn everyday traffic into a bridge-monitoring network
-
-No new sensors: vehicles crossing a bridge already carry IMUs, and their
-crossings are measurements waiting to be recorded. QianPulse fuses hundreds
-of noisy vehicle trips into a per-bridge frequency fingerprint and screens
-persistent response shifts — telling maintenance crews which bridge deserves
-inspection first. Validated on a scale model with a real iPhone, and on real
-drive-by field data.
-
-`Python` `Streamlit` `signal processing` `Welch PSD` `JS divergence` `MapLibre` `AGPL-3.0`
+[Explore the code →](https://github.com/Zhiyunyang274/qianpulse) · [Open the demo →](https://qianpulse.caixuntong.cn)
 
 ## Selected projects
 
-### [Linux-Agent](https://github.com/Zhiyunyang274/Linux-Agent)
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **[Linux-Agent](https://github.com/Zhiyunyang274/Linux-Agent)** | Natural-language Linux operations with risk checks, result analysis, and rollback workflows. | Python · React · LLMs |
+| **[MacKit](https://github.com/Zhiyunyang274/mackit)** | A native menu-bar toolbox for clipboard history, ports, Finder paths, and temporary file transfer. | Swift · AppKit · SwiftUI |
+| **[PolySignal Pro](https://github.com/Zhiyunyang274/polysignal-pro)** | Polymarket intelligence and paper trading with explicit risk controls and a read-only console. | Python · Market data |
+| **[财讯通 / Caixuntong](https://caixuntong.cn)** | A financial information product I created and continue to develop. | Web · Data aggregation |
 
-Natural-language Linux operations with guarded execution, rollback and observable results.
+## About & approach
 
-`Python` `LLM agents` `automation` `operations`
+Computer Science and Technology at **South China University of Technology**, with a minor in Finance. Independent Apple developer, hackathon builder, and **WorldQuant Global Challenge Top 100**.
 
-### [MacKit](https://github.com/Zhiyunyang274/mackit)
+I focus on tool-using agents, local software, and noisy real-world data. Across these projects, I aim to make actions visible, give consequential operations clear boundaries, keep failures recoverable, and distinguish measured evidence from simulation.
 
-A native macOS menu-bar toolbox for clipboard history, port management, Finder paths and temporary file transfer.
+---
 
-`Swift` `AppKit` `SwiftUI` `macOS`
+<details>
+<summary><strong>中文介绍 · 关于我与项目</strong></summary>
 
-### [PolySignal Pro](https://github.com/Zhiyunyang274/polysignal-pro)
+### 你好，我是云扬
 
-Market intelligence and simulated trading with explicit risk boundaries and a local read-only console.
+华南理工大学计算机科学与技术，辅修金融；独立 Apple 开发者，已有多款 App 上架 App Store；黑客松选手，WorldQuant Global Challenge Top 100。
 
-`Python` `market data` `backtesting` `risk controls`
+我关注三个方向：**可观察的 AI 智能体、本地优先的软件、信号与数据工程**。喜欢把想法做成能运行、能检查、能持续改进的产品。
 
-### [Caixuntong](https://caixuntong.cn)
+### 正在构建
 
-A financial information product I created and continue to develop.
+- **[黔脉 QianPulse](https://github.com/Zhiyunyang274/qianpulse)**：融合车辆过桥的 IMU 数据，提取桥梁频域指纹，筛查相对基线的响应偏移，为检查优先级提供参考。演示中区分模拟与实测证据。[在线体验 →](https://qianpulse.caixuntong.cn)
+- **[Linux-Agent](https://github.com/Zhiyunyang274/Linux-Agent)**：用自然语言管理 Linux，串联意图解析、风险检查、执行分析与回滚流程。
+- **[MacKit](https://github.com/Zhiyunyang274/mackit)**：原生 macOS 菜单栏工具箱，把剪贴板、端口管理、Finder 路径和临时传输放到手边。
+- **[PolySignal Pro](https://github.com/Zhiyunyang274/polysignal-pro)**：面向 Polymarket 的市场情报与模拟交易，包含风险控制和本地只读控制台。
+- **[财讯通](https://caixuntong.cn)**：我创立并持续迭代的金融资讯产品。
 
-`Product development` `financial information` `web`
+### 做事方式
 
-## How I build
+让动作可见，让风险有边界，让失败可恢复，让数据和结论可追溯。
 
-- Make actions observable instead of hiding them behind polished interfaces.
-- Put explicit guardrails around operations with real consequences.
-- Prefer small feedback loops, reversible changes and working prototypes.
-- Keep systems understandable enough to inspect, debug and improve.
-- Separate evidence from simulation — every number should be traceable.
+</details>
 
-## A little more about me
-
-- Computer Science and Technology at South China University of Technology, with a minor in Finance
-- Independent Apple developer with multiple apps published on the App Store
-- Hackathon builder who enjoys turning rough ideas into working products quickly
-- WorldQuant Global Challenge Top 100
-
-## Currently
-
-Shipping QianPulse (live demo + open source), building safer tool-using agents, and improving local software for macOS.
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zhiyunyang274&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9198a1&icon_color=58a6ff" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhiyunyang274&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9198a1&icon_color=58a6ff" alt="Top languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Zhiyunyang274?tab=repositories"><strong>Explore all projects →</strong></a>
-</p>
+<p align="center"><a href="https://github.com/Zhiyunyang274?tab=repositories">Explore all repositories →</a></p>
